@@ -1,0 +1,22 @@
+{
+    "name": "Club Infotech 1",
+    "description": "Club Infotech",
+    "image":"https://ipfs.io/ipfs/QmbQ7nGoyYv5eZ5oTAZvNNVnVUz7Gq5nRAwi2iTxTiFWZX",
+    "attributes": [{
+        "trait_type": "Mood",
+        "value": "Blessed"
+    },
+    {
+
+        "trait_type": "Aged",
+        "value": 2
+    },
+    {
+        "trait_type": "Skin",
+        "value": "Colors"
+    },
+    {
+        "trait_type": "Background",
+        "value": "Beach"
+    }]
+}

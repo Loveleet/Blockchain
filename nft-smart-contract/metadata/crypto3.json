@@ -1,0 +1,22 @@
+{
+    "name": "Club Infotech 1",
+    "description": "Club Infotech",
+    "image":"https://ipfs.io/ipfs/QmSnyL1eeKNk1wwubURvADJvcBQ3TcsC5St6E3Tb4g5Evb",
+    "attributes": [{
+        "trait_type": "Mood",
+        "value": "lonely"
+    },
+    {
+
+        "trait_type": "Aged",
+        "value": 2
+    },
+    {
+        "trait_type": "Skin",
+        "value": "Black"
+    },
+    {
+        "trait_type": "Background",
+        "value": "Moonlight"
+    }]
+}

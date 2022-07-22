@@ -1,0 +1,22 @@
+{
+    "name": "Club",
+    "description": "Club Infotech",
+    "image":"https://ipfs.io/ipfs/QmYAkJ95TNkYD3HDxMtfRAEPqnEqZtkXtKmbTQqUFfWgCE",
+    "attributes": [{
+        "trait_type": "Mood",
+        "value": "Sad"
+    },
+    {
+
+        "trait_type": "Aged",
+        "value": 1
+    },
+    {
+        "trait_type": "Skin",
+        "value": "orange"
+    },
+    {
+        "trait_type": "Background",
+        "value": "cream"
+    }]
+}
